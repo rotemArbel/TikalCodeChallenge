@@ -1,0 +1,17 @@
+.chart-container {
+    justify-content: space-around;
+    align-items: flex-end; 
+}
+
+.chart-item {
+    width: 15%;
+}
+
+.pole {
+    min-height: 50px;
+    max-height: 300px;
+    margin-top: 15px;
+    border-radius: 5px 5px 0 0;
+    background-color: #d3d2d2;
+    border: 1px solid #7a7979;
+}

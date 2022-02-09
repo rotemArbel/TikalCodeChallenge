@@ -1,0 +1,19 @@
+.card-container{
+    justify-content: center;
+    flex-direction: column;
+}
+
+table {
+    width: 500px;
+    margin: auto;
+    background-color: black;
+    border-radius: 5px;
+}
+
+ tr {
+    background-color: #d3d2d2;
+}
+
+th, td {
+    width: 50%;
+}
